@@ -665,7 +665,7 @@
 	}
 	.header_style_4 .header_bottom {
 		min-height: 92px;
-		background: #ffffff;
+		background-color: #cd0a0a;
 		padding: 0 30px 0 20px;
 		float: left;
 		width: 100%;
@@ -1098,7 +1098,7 @@
 	/** header_style_4 **/
 	.header_style_4 .header_bottom {
 		min-height: auto;
-		background: #ffffff;
+		background-color: #cd0a0a;
 		padding: 0 10px 0 10px;
 		float: left;
 		width: 100%;

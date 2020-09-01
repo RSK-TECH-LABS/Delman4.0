@@ -77,7 +77,7 @@ footer h2::after,
 
 a.btn.main_bt,
 button.btn.main_bt {
-	background: #17a5e9;
+	background: #F40009;
 	border: none;
 }
 
@@ -378,6 +378,7 @@ h2 {
 
 .header_bottom .col-lg-9.col-md-12.col-sm-12.hidden-xs {
     display: none;
+    background-color: #cd0a0a;
 }
 
 }
