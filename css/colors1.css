@@ -31,13 +31,13 @@ a.btn.dark_gray_bt:focus,
 .pagination>.active>span:focus,
 .pagination>.active>span:hover,
 .icon_feature {
-	background: #cd0a0a;
+	background: #d92027;
     background-size: 100% 100%;
     border: none;
 }
 
 .theme_bg {
-	background: #cd0a0a;
+	background: #d92027;
 }
 
 #navbar_menu > ul > li a.active,
@@ -54,7 +54,7 @@ footer ul.social_icons li a:focus,
 
 .btn.sqaure_bt {
     border-radius: 0;
-    background: #cd0a0a;
+    background: #d92027;
 }
 
 .btn.sqaure_bt span {
@@ -67,12 +67,12 @@ footer ul.social_icons li a:focus,
 footer h2::after,
 .footer_mail-section .field button.button_custom,
 .cprt,.contact_us_section {
-	background: #cd0a0a;
+	background: #d92027;
 }
 
 .tp-caption.tp-shape.tp-shapewrapper.tp-resizeme.rs-parallaxlevel-0 {
 	opacity: .4 !important;
-	background: #cd0a0a !important;
+	background: #d92027 !important;
 }
 
 a.btn.main_bt,
@@ -126,7 +126,7 @@ hr.dottad_border,
 .pagination>.active>span:hover,
 .comment_section,
 .boder_dottat_small {
-	border-color: #cd0a0a;
+	border-color: #d92027;
 }
 
 
@@ -193,7 +193,7 @@ a.btn.white_btn:hover {
 }
 
 .tp-bannertimer {
-    background: #cd0a0a !important;
+    background: #d92027 !important;
 }
 
 .tp-caption.tp-shape.tp-shapewrapper.rs-parallaxlevel-0 {
