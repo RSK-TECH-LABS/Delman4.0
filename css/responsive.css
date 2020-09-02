@@ -246,7 +246,7 @@
 	#navbar_menu.small-screen #menu-button {
 		display: block;
 		padding: 0;
-		color: #d92027;
+		color: #fff;
 		cursor: pointer;
 		font-size: 0;
 		text-transform: uppercase;
@@ -665,7 +665,7 @@
 	}
 	.header_style_4 .header_bottom {
 		min-height: 92px;
-		background-color: #d92027;
+		background: #ffffff;
 		padding: 0 30px 0 20px;
 		float: left;
 		width: 100%;
@@ -1098,7 +1098,7 @@
 	/** header_style_4 **/
 	.header_style_4 .header_bottom {
 		min-height: auto;
-		background-color: #d92027;
+		background: #ffffff;
 		padding: 0 10px 0 10px;
 		float: left;
 		width: 100%;
